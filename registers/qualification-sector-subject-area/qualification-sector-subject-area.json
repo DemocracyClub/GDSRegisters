@@ -1,0 +1,832 @@
+{
+    "01": {
+        "index-entry-number": "1",
+        "entry-number": "1",
+        "entry-timestamp": "2018-01-16T15:17:11Z",
+        "key": "01",
+        "item": [
+            {
+                "name": "Health, Public Services and Care",
+                "qualification-sector-subject-area": "01"
+            }
+        ]
+    },
+    "02": {
+        "index-entry-number": "2",
+        "entry-number": "2",
+        "entry-timestamp": "2018-01-16T15:17:11Z",
+        "key": "02",
+        "item": [
+            {
+                "name": "Science and Mathematics",
+                "qualification-sector-subject-area": "02"
+            }
+        ]
+    },
+    "03": {
+        "index-entry-number": "3",
+        "entry-number": "3",
+        "entry-timestamp": "2018-01-16T15:17:11Z",
+        "key": "03",
+        "item": [
+            {
+                "name": "Agriculture, Horticulture and Animal Care",
+                "qualification-sector-subject-area": "03"
+            }
+        ]
+    },
+    "04": {
+        "index-entry-number": "4",
+        "entry-number": "4",
+        "entry-timestamp": "2018-01-16T15:17:11Z",
+        "key": "04",
+        "item": [
+            {
+                "name": "Engineering and Manufacturing Technologies",
+                "qualification-sector-subject-area": "04"
+            }
+        ]
+    },
+    "05": {
+        "index-entry-number": "5",
+        "entry-number": "5",
+        "entry-timestamp": "2018-01-16T15:17:11Z",
+        "key": "05",
+        "item": [
+            {
+                "name": "Construction, Planning and the Built Environment",
+                "qualification-sector-subject-area": "05"
+            }
+        ]
+    },
+    "06": {
+        "index-entry-number": "6",
+        "entry-number": "6",
+        "entry-timestamp": "2018-01-16T15:17:11Z",
+        "key": "06",
+        "item": [
+            {
+                "name": "Information and Communication Technology",
+                "qualification-sector-subject-area": "06"
+            }
+        ]
+    },
+    "07": {
+        "index-entry-number": "7",
+        "entry-number": "7",
+        "entry-timestamp": "2018-01-16T15:17:11Z",
+        "key": "07",
+        "item": [
+            {
+                "name": "Retail and Commercial Enterprise",
+                "qualification-sector-subject-area": "07"
+            }
+        ]
+    },
+    "08": {
+        "index-entry-number": "8",
+        "entry-number": "8",
+        "entry-timestamp": "2018-01-16T15:17:11Z",
+        "key": "08",
+        "item": [
+            {
+                "name": "Leisure, Travel and Tourism",
+                "qualification-sector-subject-area": "08"
+            }
+        ]
+    },
+    "09": {
+        "index-entry-number": "9",
+        "entry-number": "9",
+        "entry-timestamp": "2018-01-16T15:17:11Z",
+        "key": "09",
+        "item": [
+            {
+                "name": "Arts, Media and Publishing",
+                "qualification-sector-subject-area": "09"
+            }
+        ]
+    },
+    "03.1": {
+        "index-entry-number": "23",
+        "entry-number": "23",
+        "entry-timestamp": "2018-01-16T15:17:11Z",
+        "key": "03.1",
+        "item": [
+            {
+                "parent-qualification-sector-subject-area": "03",
+                "name": "Agriculture",
+                "qualification-sector-subject-area": "03.1"
+            }
+        ]
+    },
+    "01.3": {
+        "index-entry-number": "18",
+        "entry-number": "18",
+        "entry-timestamp": "2018-01-16T15:17:11Z",
+        "key": "01.3",
+        "item": [
+            {
+                "parent-qualification-sector-subject-area": "01",
+                "name": "Health and social care",
+                "qualification-sector-subject-area": "01.3"
+            }
+        ]
+    },
+    "03.2": {
+        "index-entry-number": "24",
+        "entry-number": "24",
+        "entry-timestamp": "2018-01-16T15:17:11Z",
+        "key": "03.2",
+        "item": [
+            {
+                "parent-qualification-sector-subject-area": "03",
+                "name": "Horticulture and forestry",
+                "qualification-sector-subject-area": "03.2"
+            }
+        ]
+    },
+    "01.4": {
+        "index-entry-number": "19",
+        "entry-number": "19",
+        "entry-timestamp": "2018-01-16T15:17:11Z",
+        "key": "01.4",
+        "item": [
+            {
+                "parent-qualification-sector-subject-area": "01",
+                "name": "Public services",
+                "qualification-sector-subject-area": "01.4"
+            }
+        ]
+    },
+    "01.1": {
+        "index-entry-number": "16",
+        "entry-number": "16",
+        "entry-timestamp": "2018-01-16T15:17:11Z",
+        "key": "01.1",
+        "item": [
+            {
+                "parent-qualification-sector-subject-area": "01",
+                "name": "Medicine and Dentistry",
+                "qualification-sector-subject-area": "01.1"
+            }
+        ]
+    },
+    "01.2": {
+        "index-entry-number": "17",
+        "entry-number": "17",
+        "entry-timestamp": "2018-01-16T15:17:11Z",
+        "key": "01.2",
+        "item": [
+            {
+                "parent-qualification-sector-subject-area": "01",
+                "name": "Nursing and subjects and vocations allied to medicine",
+                "qualification-sector-subject-area": "01.2"
+            }
+        ]
+    },
+    "09.3": {
+        "index-entry-number": "43",
+        "entry-number": "43",
+        "entry-timestamp": "2018-01-16T15:17:11Z",
+        "key": "09.3",
+        "item": [
+            {
+                "parent-qualification-sector-subject-area": "09",
+                "name": "Media and communication",
+                "qualification-sector-subject-area": "09.3"
+            }
+        ]
+    },
+    "09.4": {
+        "index-entry-number": "44",
+        "entry-number": "44",
+        "entry-timestamp": "2018-01-16T15:17:11Z",
+        "key": "09.4",
+        "item": [
+            {
+                "parent-qualification-sector-subject-area": "09",
+                "name": "Publishing and information services",
+                "qualification-sector-subject-area": "09.4"
+            }
+        ]
+    },
+    "09.1": {
+        "index-entry-number": "41",
+        "entry-number": "41",
+        "entry-timestamp": "2018-01-16T15:17:11Z",
+        "key": "09.1",
+        "item": [
+            {
+                "parent-qualification-sector-subject-area": "09",
+                "name": "Performing arts",
+                "qualification-sector-subject-area": "09.1"
+            }
+        ]
+    },
+    "07.3": {
+        "index-entry-number": "37",
+        "entry-number": "37",
+        "entry-timestamp": "2018-01-16T15:17:11Z",
+        "key": "07.3",
+        "item": [
+            {
+                "parent-qualification-sector-subject-area": "07",
+                "name": "Service enterprises",
+                "qualification-sector-subject-area": "07.3"
+            }
+        ]
+    },
+    "09.2": {
+        "index-entry-number": "42",
+        "entry-number": "42",
+        "entry-timestamp": "2018-01-16T15:17:11Z",
+        "key": "09.2",
+        "item": [
+            {
+                "parent-qualification-sector-subject-area": "09",
+                "name": "Crafts, creative arts and design",
+                "qualification-sector-subject-area": "09.2"
+            }
+        ]
+    },
+    "07.4": {
+        "index-entry-number": "38",
+        "entry-number": "38",
+        "entry-timestamp": "2018-01-16T15:17:11Z",
+        "key": "07.4",
+        "item": [
+            {
+                "parent-qualification-sector-subject-area": "07",
+                "name": "Hospitality and catering",
+                "qualification-sector-subject-area": "07.4"
+            }
+        ]
+    },
+    "07.1": {
+        "index-entry-number": "35",
+        "entry-number": "35",
+        "entry-timestamp": "2018-01-16T15:17:11Z",
+        "key": "07.1",
+        "item": [
+            {
+                "parent-qualification-sector-subject-area": "07",
+                "name": "Retailing and wholesaling",
+                "qualification-sector-subject-area": "07.1"
+            }
+        ]
+    },
+    "05.3": {
+        "index-entry-number": "32",
+        "entry-number": "32",
+        "entry-timestamp": "2018-01-16T15:17:11Z",
+        "key": "05.3",
+        "item": [
+            {
+                "parent-qualification-sector-subject-area": "05",
+                "name": "Urban, rural and regional planning",
+                "qualification-sector-subject-area": "05.3"
+            }
+        ]
+    },
+    "07.2": {
+        "index-entry-number": "36",
+        "entry-number": "36",
+        "entry-timestamp": "2018-01-16T15:17:11Z",
+        "key": "07.2",
+        "item": [
+            {
+                "parent-qualification-sector-subject-area": "07",
+                "name": "Warehousing and distribution",
+                "qualification-sector-subject-area": "07.2"
+            }
+        ]
+    },
+    "05.1": {
+        "index-entry-number": "30",
+        "entry-number": "30",
+        "entry-timestamp": "2018-01-16T15:17:11Z",
+        "key": "05.1",
+        "item": [
+            {
+                "parent-qualification-sector-subject-area": "05",
+                "name": "Architecture",
+                "qualification-sector-subject-area": "05.1"
+            }
+        ]
+    },
+    "03.3": {
+        "index-entry-number": "25",
+        "entry-number": "25",
+        "entry-timestamp": "2018-01-16T15:17:11Z",
+        "key": "03.3",
+        "item": [
+            {
+                "parent-qualification-sector-subject-area": "03",
+                "name": "Animal care and veterinary science",
+                "qualification-sector-subject-area": "03.3"
+            }
+        ]
+    },
+    "01.5": {
+        "index-entry-number": "20",
+        "entry-number": "20",
+        "entry-timestamp": "2018-01-16T15:17:11Z",
+        "key": "01.5",
+        "item": [
+            {
+                "parent-qualification-sector-subject-area": "01",
+                "name": "Child development and well-being",
+                "qualification-sector-subject-area": "01.5"
+            }
+        ]
+    },
+    "05.2": {
+        "index-entry-number": "31",
+        "entry-number": "31",
+        "entry-timestamp": "2018-01-16T15:17:11Z",
+        "key": "05.2",
+        "item": [
+            {
+                "parent-qualification-sector-subject-area": "05",
+                "name": "Building and construction",
+                "qualification-sector-subject-area": "05.2"
+            }
+        ]
+    },
+    "03.4": {
+        "index-entry-number": "26",
+        "entry-number": "26",
+        "entry-timestamp": "2018-01-16T15:17:11Z",
+        "key": "03.4",
+        "item": [
+            {
+                "parent-qualification-sector-subject-area": "03",
+                "name": "Environmental conservation",
+                "qualification-sector-subject-area": "03.4"
+            }
+        ]
+    },
+    "10": {
+        "index-entry-number": "10",
+        "entry-number": "10",
+        "entry-timestamp": "2018-01-16T15:17:11Z",
+        "key": "10",
+        "item": [
+            {
+                "name": "History, Philosophy and Theology",
+                "qualification-sector-subject-area": "10"
+            }
+        ]
+    },
+    "11": {
+        "index-entry-number": "11",
+        "entry-number": "11",
+        "entry-timestamp": "2018-01-16T15:17:11Z",
+        "key": "11",
+        "item": [
+            {
+                "name": "Social Sciences",
+                "qualification-sector-subject-area": "11"
+            }
+        ]
+    },
+    "12": {
+        "index-entry-number": "12",
+        "entry-number": "12",
+        "entry-timestamp": "2018-01-16T15:17:11Z",
+        "key": "12",
+        "item": [
+            {
+                "name": "Languages, Literature and Culture",
+                "qualification-sector-subject-area": "12"
+            }
+        ]
+    },
+    "13": {
+        "index-entry-number": "13",
+        "entry-number": "13",
+        "entry-timestamp": "2018-01-16T15:17:11Z",
+        "key": "13",
+        "item": [
+            {
+                "name": "Education and Training",
+                "qualification-sector-subject-area": "13"
+            }
+        ]
+    },
+    "14": {
+        "index-entry-number": "14",
+        "entry-number": "14",
+        "entry-timestamp": "2018-01-16T15:17:11Z",
+        "key": "14",
+        "item": [
+            {
+                "name": "Preparation for Life and Work",
+                "qualification-sector-subject-area": "14"
+            }
+        ]
+    },
+    "15": {
+        "index-entry-number": "15",
+        "entry-number": "15",
+        "entry-timestamp": "2018-01-16T15:17:11Z",
+        "key": "15",
+        "item": [
+            {
+                "name": "Business, Administration and Law",
+                "qualification-sector-subject-area": "15"
+            }
+        ]
+    },
+    "14.2": {
+        "index-entry-number": "60",
+        "entry-number": "60",
+        "entry-timestamp": "2018-01-16T15:17:11Z",
+        "key": "14.2",
+        "item": [
+            {
+                "parent-qualification-sector-subject-area": "14",
+                "name": "Preparation for work",
+                "qualification-sector-subject-area": "14.2"
+            }
+        ]
+    },
+    "14.1": {
+        "index-entry-number": "59",
+        "entry-number": "59",
+        "entry-timestamp": "2018-01-16T15:17:11Z",
+        "key": "14.1",
+        "item": [
+            {
+                "parent-qualification-sector-subject-area": "14",
+                "name": "Foundations for learning and life",
+                "qualification-sector-subject-area": "14.1"
+            }
+        ]
+    },
+    "12.3": {
+        "index-entry-number": "56",
+        "entry-number": "56",
+        "entry-timestamp": "2018-01-16T15:17:11Z",
+        "key": "12.3",
+        "item": [
+            {
+                "parent-qualification-sector-subject-area": "12",
+                "name": "Linguistics",
+                "qualification-sector-subject-area": "12.3"
+            }
+        ]
+    },
+    "12.2": {
+        "index-entry-number": "55",
+        "entry-number": "55",
+        "entry-timestamp": "2018-01-16T15:17:11Z",
+        "key": "12.2",
+        "item": [
+            {
+                "parent-qualification-sector-subject-area": "12",
+                "name": "Other languages, literature and culture",
+                "qualification-sector-subject-area": "12.2"
+            }
+        ]
+    },
+    "10.4": {
+        "index-entry-number": "48",
+        "entry-number": "48",
+        "entry-timestamp": "2018-01-16T15:17:11Z",
+        "key": "10.4",
+        "item": [
+            {
+                "parent-qualification-sector-subject-area": "10",
+                "name": "Theology and religious studies",
+                "qualification-sector-subject-area": "10.4"
+            }
+        ]
+    },
+    "12.1": {
+        "index-entry-number": "54",
+        "entry-number": "54",
+        "entry-timestamp": "2018-01-16T15:17:11Z",
+        "key": "12.1",
+        "item": [
+            {
+                "parent-qualification-sector-subject-area": "12",
+                "name": "Languages, literature and culture of the British Isles",
+                "qualification-sector-subject-area": "12.1"
+            }
+        ]
+    },
+    "10.3": {
+        "index-entry-number": "47",
+        "entry-number": "47",
+        "entry-timestamp": "2018-01-16T15:17:11Z",
+        "key": "10.3",
+        "item": [
+            {
+                "parent-qualification-sector-subject-area": "10",
+                "name": "Philosophy",
+                "qualification-sector-subject-area": "10.3"
+            }
+        ]
+    },
+    "10.2": {
+        "index-entry-number": "46",
+        "entry-number": "46",
+        "entry-timestamp": "2018-01-16T15:17:11Z",
+        "key": "10.2",
+        "item": [
+            {
+                "parent-qualification-sector-subject-area": "10",
+                "name": "Archaeology and archaeological sciences",
+                "qualification-sector-subject-area": "10.2"
+            }
+        ]
+    },
+    "10.1": {
+        "index-entry-number": "45",
+        "entry-number": "45",
+        "entry-timestamp": "2018-01-16T15:17:11Z",
+        "key": "10.1",
+        "item": [
+            {
+                "parent-qualification-sector-subject-area": "10",
+                "name": "History",
+                "qualification-sector-subject-area": "10.1"
+            }
+        ]
+    },
+    "02.2": {
+        "index-entry-number": "22",
+        "entry-number": "22",
+        "entry-timestamp": "2018-01-16T15:17:11Z",
+        "key": "02.2",
+        "item": [
+            {
+                "parent-qualification-sector-subject-area": "02",
+                "name": "Mathematics and statistics",
+                "qualification-sector-subject-area": "02.2"
+            }
+        ]
+    },
+    "04.1": {
+        "index-entry-number": "27",
+        "entry-number": "27",
+        "entry-timestamp": "2018-01-16T15:17:11Z",
+        "key": "04.1",
+        "item": [
+            {
+                "parent-qualification-sector-subject-area": "04",
+                "name": "Engineering",
+                "qualification-sector-subject-area": "04.1"
+            }
+        ]
+    },
+    "02.1": {
+        "index-entry-number": "21",
+        "entry-number": "21",
+        "entry-timestamp": "2018-01-16T15:17:11Z",
+        "key": "02.1",
+        "item": [
+            {
+                "parent-qualification-sector-subject-area": "02",
+                "name": "Science",
+                "qualification-sector-subject-area": "02.1"
+            }
+        ]
+    },
+    "08.2": {
+        "index-entry-number": "40",
+        "entry-number": "40",
+        "entry-timestamp": "2018-01-16T15:17:11Z",
+        "key": "08.2",
+        "item": [
+            {
+                "parent-qualification-sector-subject-area": "08",
+                "name": "Travel and tourism",
+                "qualification-sector-subject-area": "08.2"
+            }
+        ]
+    },
+    "06.2": {
+        "index-entry-number": "34",
+        "entry-number": "34",
+        "entry-timestamp": "2018-01-16T15:17:11Z",
+        "key": "06.2",
+        "item": [
+            {
+                "parent-qualification-sector-subject-area": "06",
+                "name": "ICT for users",
+                "qualification-sector-subject-area": "06.2"
+            }
+        ]
+    },
+    "08.1": {
+        "index-entry-number": "39",
+        "entry-number": "39",
+        "entry-timestamp": "2018-01-16T15:17:11Z",
+        "key": "08.1",
+        "item": [
+            {
+                "parent-qualification-sector-subject-area": "08",
+                "name": "Sport, leisure and recreation",
+                "qualification-sector-subject-area": "08.1"
+            }
+        ]
+    },
+    "04.2": {
+        "index-entry-number": "28",
+        "entry-number": "28",
+        "entry-timestamp": "2018-01-16T15:17:11Z",
+        "key": "04.2",
+        "item": [
+            {
+                "parent-qualification-sector-subject-area": "04",
+                "name": "Manufacturing technologies",
+                "qualification-sector-subject-area": "04.2"
+            }
+        ]
+    },
+    "06.1": {
+        "index-entry-number": "33",
+        "entry-number": "33",
+        "entry-timestamp": "2018-01-16T15:17:11Z",
+        "key": "06.1",
+        "item": [
+            {
+                "parent-qualification-sector-subject-area": "06",
+                "name": "ICT practitioners",
+                "qualification-sector-subject-area": "06.1"
+            }
+        ]
+    },
+    "04.3": {
+        "index-entry-number": "29",
+        "entry-number": "29",
+        "entry-timestamp": "2018-01-16T15:17:11Z",
+        "key": "04.3",
+        "item": [
+            {
+                "parent-qualification-sector-subject-area": "04",
+                "name": "Transportation operations and maintenance",
+                "qualification-sector-subject-area": "04.3"
+            }
+        ]
+    },
+    "15.1": {
+        "index-entry-number": "61",
+        "entry-number": "61",
+        "entry-timestamp": "2018-01-16T15:17:11Z",
+        "key": "15.1",
+        "item": [
+            {
+                "parent-qualification-sector-subject-area": "15",
+                "name": "Accounting and finance",
+                "qualification-sector-subject-area": "15.1"
+            }
+        ]
+    },
+    "11.5": {
+        "index-entry-number": "53",
+        "entry-number": "53",
+        "entry-timestamp": "2018-01-16T15:17:11Z",
+        "key": "11.5",
+        "item": [
+            {
+                "parent-qualification-sector-subject-area": "11",
+                "name": "Anthropology",
+                "qualification-sector-subject-area": "11.5"
+            }
+        ]
+    },
+    "13.2": {
+        "index-entry-number": "58",
+        "entry-number": "58",
+        "entry-timestamp": "2018-01-16T15:17:11Z",
+        "key": "13.2",
+        "item": [
+            {
+                "parent-qualification-sector-subject-area": "13",
+                "name": "Direct learning support",
+                "qualification-sector-subject-area": "13.2"
+            }
+        ]
+    },
+    "11.4": {
+        "index-entry-number": "52",
+        "entry-number": "52",
+        "entry-timestamp": "2018-01-16T15:17:11Z",
+        "key": "11.4",
+        "item": [
+            {
+                "parent-qualification-sector-subject-area": "11",
+                "name": "Economics",
+                "qualification-sector-subject-area": "11.4"
+            }
+        ]
+    },
+    "13.1": {
+        "index-entry-number": "57",
+        "entry-number": "57",
+        "entry-timestamp": "2018-01-16T15:17:11Z",
+        "key": "13.1",
+        "item": [
+            {
+                "parent-qualification-sector-subject-area": "13",
+                "name": "Teaching and lecturing",
+                "qualification-sector-subject-area": "13.1"
+            }
+        ]
+    },
+    "11.3": {
+        "index-entry-number": "51",
+        "entry-number": "51",
+        "entry-timestamp": "2018-01-16T15:17:11Z",
+        "key": "11.3",
+        "item": [
+            {
+                "parent-qualification-sector-subject-area": "11",
+                "name": "Politics",
+                "qualification-sector-subject-area": "11.3"
+            }
+        ]
+    },
+    "11.2": {
+        "index-entry-number": "50",
+        "entry-number": "50",
+        "entry-timestamp": "2018-01-16T15:17:11Z",
+        "key": "11.2",
+        "item": [
+            {
+                "parent-qualification-sector-subject-area": "11",
+                "name": "Sociology and social policy",
+                "qualification-sector-subject-area": "11.2"
+            }
+        ]
+    },
+    "11.1": {
+        "index-entry-number": "49",
+        "entry-number": "49",
+        "entry-timestamp": "2018-01-16T15:17:11Z",
+        "key": "11.1",
+        "item": [
+            {
+                "parent-qualification-sector-subject-area": "11",
+                "name": "Geography",
+                "qualification-sector-subject-area": "11.1"
+            }
+        ]
+    },
+    "15.5": {
+        "index-entry-number": "65",
+        "entry-number": "65",
+        "entry-timestamp": "2018-01-16T15:17:11Z",
+        "key": "15.5",
+        "item": [
+            {
+                "parent-qualification-sector-subject-area": "15",
+                "name": "Law and legal services",
+                "qualification-sector-subject-area": "15.5"
+            }
+        ]
+    },
+    "15.4": {
+        "index-entry-number": "64",
+        "entry-number": "64",
+        "entry-timestamp": "2018-01-16T15:17:11Z",
+        "key": "15.4",
+        "item": [
+            {
+                "parent-qualification-sector-subject-area": "15",
+                "name": "Marketing and sales",
+                "qualification-sector-subject-area": "15.4"
+            }
+        ]
+    },
+    "15.3": {
+        "index-entry-number": "63",
+        "entry-number": "63",
+        "entry-timestamp": "2018-01-16T15:17:11Z",
+        "key": "15.3",
+        "item": [
+            {
+                "parent-qualification-sector-subject-area": "15",
+                "name": "Business management",
+                "qualification-sector-subject-area": "15.3"
+            }
+        ]
+    },
+    "15.2": {
+        "index-entry-number": "62",
+        "entry-number": "62",
+        "entry-timestamp": "2018-01-16T15:17:11Z",
+        "key": "15.2",
+        "item": [
+            {
+                "parent-qualification-sector-subject-area": "15",
+                "name": "Administration",
+                "qualification-sector-subject-area": "15.2"
+            }
+        ]
+    }
+}

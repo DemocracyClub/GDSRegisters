@@ -1,0 +1,245 @@
+{
+    "110": {
+        "index-entry-number": "10",
+        "entry-number": "10",
+        "entry-timestamp": "2018-06-18T16:16:14Z",
+        "key": "110",
+        "item": [
+            {
+                "approved-open-standard-guidance": "110",
+                "website": "https://www.gov.uk/government/publications/open-standards-for-government/persistent-resolvable-identifiers",
+                "approved-open-standards": [
+                    "approved-open-standard:1012",
+                    "approved-open-standard:1013"
+                ],
+                "name": "Persistent resolvable identifiers",
+                "start-date": "2018-01-31"
+            }
+        ]
+    },
+    "111": {
+        "index-entry-number": "11",
+        "entry-number": "11",
+        "entry-timestamp": "2018-06-18T16:16:14Z",
+        "key": "111",
+        "item": [
+            {
+                "approved-open-standard-guidance": "111",
+                "website": "https://www.gov.uk/government/publications/open-standards-for-government/sharing-or-collaborating-with-government-documents",
+                "approved-open-standards": [
+                    "approved-open-standard:1014"
+                ],
+                "name": "Sharing or collaborating with government documents",
+                "start-date": "2018-01-31"
+            }
+        ]
+    },
+    "112": {
+        "index-entry-number": "12",
+        "entry-number": "12",
+        "entry-timestamp": "2018-06-18T16:16:14Z",
+        "key": "112",
+        "item": [
+            {
+                "approved-open-standard-guidance": "112",
+                "website": "https://www.gov.uk/government/publications/open-standards-for-government/viewing-government-documents",
+                "approved-open-standards": [
+                    "approved-open-standard:1015",
+                    "approved-open-standard:1016",
+                    "approved-open-standard:1017"
+                ],
+                "name": "Viewing government documents",
+                "start-date": "2018-01-31"
+            }
+        ]
+    },
+    "101": {
+        "index-entry-number": "1",
+        "entry-number": "1",
+        "entry-timestamp": "2018-06-18T16:16:14Z",
+        "key": "101",
+        "item": [
+            {
+                "approved-open-standard-guidance": "101",
+                "website": "https://www.gov.uk/government/publications/open-standards-for-government/date-times-and-time-stamps-standard",
+                "approved-open-standards": [
+                    "approved-open-standard:1001"
+                ],
+                "name": "Date-times and time-stamps",
+                "start-date": "2018-01-31"
+            }
+        ]
+    },
+    "113": {
+        "index-entry-number": "13",
+        "entry-number": "13",
+        "entry-timestamp": "2018-06-18T16:16:14Z",
+        "key": "113",
+        "item": [
+            {
+                "approved-open-standard-guidance": "113",
+                "website": "https://www.gov.uk/government/publications/open-standards-for-government/exchange-of-contact-information",
+                "approved-open-standards": [
+                    "approved-open-standard:1018"
+                ],
+                "name": "Exchange of contact information",
+                "start-date": "2018-01-31"
+            }
+        ]
+    },
+    "102": {
+        "index-entry-number": "2",
+        "entry-number": "2",
+        "entry-timestamp": "2018-06-18T16:16:14Z",
+        "key": "102",
+        "item": [
+            {
+                "approved-open-standard-guidance": "102",
+                "website": "https://www.gov.uk/government/publications/open-standards-for-government/open-contracting-data-standard-profile",
+                "approved-open-standards": [
+                    "approved-open-standard:1002"
+                ],
+                "name": "Open contracting data",
+                "start-date": "2018-01-31"
+            }
+        ]
+    },
+    "114": {
+        "index-entry-number": "14",
+        "entry-number": "14",
+        "entry-timestamp": "2018-06-18T16:16:14Z",
+        "key": "114",
+        "item": [
+            {
+                "approved-open-standard-guidance": "114",
+                "website": "https://www.gov.uk/government/publications/open-standards-for-government/exchange-of-calendar-events",
+                "approved-open-standards": [
+                    "approved-open-standard:1019"
+                ],
+                "name": "Exchange of calendar events",
+                "start-date": "2018-01-31"
+            }
+        ]
+    },
+    "103": {
+        "index-entry-number": "3",
+        "entry-number": "3",
+        "entry-timestamp": "2018-06-18T16:16:14Z",
+        "key": "103",
+        "item": [
+            {
+                "approved-open-standard-guidance": "103",
+                "website": "https://www.gov.uk/government/publications/open-standards-for-government/open-standard-for-international-development-data",
+                "approved-open-standards": [
+                    "approved-open-standard:1003"
+                ],
+                "name": "International development data",
+                "start-date": "2018-01-31"
+            }
+        ]
+    },
+    "104": {
+        "index-entry-number": "4",
+        "entry-number": "4",
+        "entry-timestamp": "2018-06-18T16:16:14Z",
+        "key": "104",
+        "item": [
+            {
+                "approved-open-standard-guidance": "104",
+                "website": "https://www.gov.uk/government/publications/open-standards-for-government/publishing-vacancies-online-standards-profile--2",
+                "approved-open-standards": [
+                    "approved-open-standard:1004"
+                ],
+                "name": "Publishing vacancies",
+                "start-date": "2018-01-31"
+            }
+        ]
+    },
+    "105": {
+        "index-entry-number": "5",
+        "entry-number": "5",
+        "entry-timestamp": "2018-06-18T16:16:14Z",
+        "key": "105",
+        "item": [
+            {
+                "approved-open-standard-guidance": "105",
+                "website": "https://www.gov.uk/government/publications/open-standards-for-government/multi-agency-incident-transfer",
+                "approved-open-standards": [
+                    "approved-open-standard:1005"
+                ],
+                "name": "Multi agency incident transfer",
+                "start-date": "2018-01-31"
+            }
+        ]
+    },
+    "106": {
+        "index-entry-number": "6",
+        "entry-number": "6",
+        "entry-timestamp": "2018-06-18T16:16:14Z",
+        "key": "106",
+        "item": [
+            {
+                "approved-open-standard-guidance": "106",
+                "website": "https://www.gov.uk/government/publications/open-standards-for-government/exchange-of-location-point",
+                "approved-open-standards": [
+                    "approved-open-standard:1006",
+                    "approved-open-standard:1007"
+                ],
+                "name": "Exchange of location point",
+                "start-date": "2018-01-31"
+            }
+        ]
+    },
+    "107": {
+        "index-entry-number": "7",
+        "entry-number": "7",
+        "entry-timestamp": "2018-06-18T16:16:14Z",
+        "key": "107",
+        "item": [
+            {
+                "approved-open-standard-guidance": "107",
+                "website": "https://www.gov.uk/government/publications/open-standards-for-government/country-codes",
+                "approved-open-standards": [
+                    "approved-open-standard:1008"
+                ],
+                "name": "Country codes",
+                "start-date": "2018-01-31"
+            }
+        ]
+    },
+    "108": {
+        "index-entry-number": "8",
+        "entry-number": "8",
+        "entry-timestamp": "2018-06-18T16:16:14Z",
+        "key": "108",
+        "item": [
+            {
+                "approved-open-standard-guidance": "108",
+                "website": "https://www.gov.uk/government/publications/open-standards-for-government/language-tags",
+                "approved-open-standards": [
+                    "approved-open-standard:1009"
+                ],
+                "name": "Language tags",
+                "start-date": "2018-01-31"
+            }
+        ]
+    },
+    "109": {
+        "index-entry-number": "9",
+        "entry-number": "9",
+        "entry-timestamp": "2018-06-18T16:16:14Z",
+        "key": "109",
+        "item": [
+            {
+                "approved-open-standard-guidance": "109",
+                "website": "https://www.gov.uk/government/publications/open-standards-for-government/cross-platform-character-encoding-profile",
+                "approved-open-standards": [
+                    "approved-open-standard:1010",
+                    "approved-open-standard:1011"
+                ],
+                "name": "Cross platform character encoding profile",
+                "start-date": "2018-01-31"
+            }
+        ]
+    }
+}

@@ -1,0 +1,484 @@
+{
+    "E08000030": {
+        "index-entry-number": "4",
+        "entry-number": "4",
+        "entry-timestamp": "2017-11-29T13:23:25Z",
+        "key": "E08000030",
+        "item": [
+            {
+                "statistical-geography-metropolitan-district-eng": "E08000030",
+                "local-authority-eng": "WLL",
+                "start-date": "2009-01-01"
+            }
+        ]
+    },
+    "E08000031": {
+        "index-entry-number": "3",
+        "entry-number": "3",
+        "entry-timestamp": "2017-11-29T13:23:25Z",
+        "key": "E08000031",
+        "item": [
+            {
+                "statistical-geography-metropolitan-district-eng": "E08000031",
+                "local-authority-eng": "WLV",
+                "start-date": "2009-01-01"
+            }
+        ]
+    },
+    "E08000034": {
+        "index-entry-number": "27",
+        "entry-number": "27",
+        "entry-timestamp": "2017-11-29T13:23:25Z",
+        "key": "E08000034",
+        "item": [
+            {
+                "statistical-geography-metropolitan-district-eng": "E08000034",
+                "local-authority-eng": "KIR",
+                "start-date": "2009-01-01"
+            }
+        ]
+    },
+    "E08000012": {
+        "index-entry-number": "24",
+        "entry-number": "24",
+        "entry-timestamp": "2017-11-29T13:23:25Z",
+        "key": "E08000012",
+        "item": [
+            {
+                "statistical-geography-metropolitan-district-eng": "E08000012",
+                "local-authority-eng": "LIV",
+                "start-date": "2009-01-01"
+            }
+        ]
+    },
+    "E08000035": {
+        "index-entry-number": "25",
+        "entry-number": "25",
+        "entry-timestamp": "2017-11-29T13:23:25Z",
+        "key": "E08000035",
+        "item": [
+            {
+                "statistical-geography-metropolitan-district-eng": "E08000035",
+                "local-authority-eng": "LDS",
+                "start-date": "2009-01-01"
+            }
+        ]
+    },
+    "E08000013": {
+        "index-entry-number": "14",
+        "entry-number": "14",
+        "entry-timestamp": "2017-11-29T13:23:25Z",
+        "key": "E08000013",
+        "item": [
+            {
+                "statistical-geography-metropolitan-district-eng": "E08000013",
+                "local-authority-eng": "SHN",
+                "start-date": "2009-01-01"
+            }
+        ]
+    },
+    "E08000032": {
+        "index-entry-number": "35",
+        "entry-number": "35",
+        "entry-timestamp": "2017-11-29T13:23:25Z",
+        "key": "E08000032",
+        "item": [
+            {
+                "statistical-geography-metropolitan-district-eng": "E08000032",
+                "local-authority-eng": "BRD",
+                "start-date": "2009-01-01"
+            }
+        ]
+    },
+    "E08000010": {
+        "index-entry-number": "6",
+        "entry-number": "6",
+        "entry-timestamp": "2017-11-29T13:23:25Z",
+        "key": "E08000010",
+        "item": [
+            {
+                "statistical-geography-metropolitan-district-eng": "E08000010",
+                "local-authority-eng": "WGN",
+                "start-date": "2009-01-01"
+            }
+        ]
+    },
+    "E08000033": {
+        "index-entry-number": "33",
+        "entry-number": "33",
+        "entry-timestamp": "2017-11-29T13:23:25Z",
+        "key": "E08000033",
+        "item": [
+            {
+                "statistical-geography-metropolitan-district-eng": "E08000033",
+                "local-authority-eng": "CLD",
+                "start-date": "2009-01-01"
+            }
+        ]
+    },
+    "E08000011": {
+        "index-entry-number": "26",
+        "entry-number": "26",
+        "entry-timestamp": "2017-11-29T13:23:25Z",
+        "key": "E08000011",
+        "item": [
+            {
+                "statistical-geography-metropolitan-district-eng": "E08000011",
+                "local-authority-eng": "KWL",
+                "start-date": "2009-01-01"
+            }
+        ]
+    },
+    "E08000016": {
+        "index-entry-number": "37",
+        "entry-number": "37",
+        "entry-timestamp": "2017-11-29T13:23:25Z",
+        "key": "E08000016",
+        "item": [
+            {
+                "statistical-geography-metropolitan-district-eng": "E08000016",
+                "local-authority-eng": "BNS",
+                "start-date": "2009-01-01"
+            }
+        ]
+    },
+    "E08000017": {
+        "index-entry-number": "31",
+        "entry-number": "31",
+        "entry-timestamp": "2017-11-29T13:23:25Z",
+        "key": "E08000017",
+        "item": [
+            {
+                "statistical-geography-metropolitan-district-eng": "E08000017",
+                "local-authority-eng": "DNC",
+                "start-date": "2009-01-01"
+            }
+        ]
+    },
+    "E08000014": {
+        "index-entry-number": "16",
+        "entry-number": "16",
+        "entry-timestamp": "2017-11-29T13:23:25Z",
+        "key": "E08000014",
+        "item": [
+            {
+                "statistical-geography-metropolitan-district-eng": "E08000014",
+                "local-authority-eng": "SFT",
+                "start-date": "2009-01-01"
+            }
+        ]
+    },
+    "E08000036": {
+        "index-entry-number": "5",
+        "entry-number": "5",
+        "entry-timestamp": "2017-11-29T13:23:25Z",
+        "key": "E08000036",
+        "item": [
+            {
+                "statistical-geography-metropolitan-district-eng": "E08000036",
+                "local-authority-eng": "WKF",
+                "start-date": "2009-01-01"
+            }
+        ]
+    },
+    "E08000037": {
+        "index-entry-number": "29",
+        "entry-number": "29",
+        "entry-timestamp": "2017-11-29T13:23:25Z",
+        "key": "E08000037",
+        "item": [
+            {
+                "statistical-geography-metropolitan-district-eng": "E08000037",
+                "local-authority-eng": "GAT",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "E08000015": {
+        "index-entry-number": "2",
+        "entry-number": "2",
+        "entry-timestamp": "2017-11-29T13:23:25Z",
+        "key": "E08000015",
+        "item": [
+            {
+                "statistical-geography-metropolitan-district-eng": "E08000015",
+                "local-authority-eng": "WRL",
+                "start-date": "2009-01-01"
+            }
+        ]
+    },
+    "E08000018": {
+        "index-entry-number": "18",
+        "entry-number": "18",
+        "entry-timestamp": "2017-11-29T13:23:25Z",
+        "key": "E08000018",
+        "item": [
+            {
+                "statistical-geography-metropolitan-district-eng": "E08000018",
+                "local-authority-eng": "ROT",
+                "start-date": "2009-01-01"
+            }
+        ]
+    },
+    "E08000019": {
+        "index-entry-number": "15",
+        "entry-number": "15",
+        "entry-timestamp": "2017-11-29T13:23:25Z",
+        "key": "E08000019",
+        "item": [
+            {
+                "statistical-geography-metropolitan-district-eng": "E08000019",
+                "local-authority-eng": "SHF",
+                "start-date": "2009-01-01"
+            }
+        ]
+    },
+    "E08000020": {
+        "index-entry-number": "28",
+        "entry-number": "28",
+        "entry-timestamp": "2017-11-29T13:23:25Z",
+        "key": "E08000020",
+        "item": [
+            {
+                "end-date": "2013-03-31",
+                "statistical-geography-metropolitan-district-eng": "E08000020",
+                "local-authority-eng": "GAT",
+                "start-date": "2009-01-01"
+            }
+        ]
+    },
+    "E08000001": {
+        "index-entry-number": "36",
+        "entry-number": "36",
+        "entry-timestamp": "2017-11-29T13:23:25Z",
+        "key": "E08000001",
+        "item": [
+            {
+                "statistical-geography-metropolitan-district-eng": "E08000001",
+                "local-authority-eng": "BOL",
+                "start-date": "2009-01-01"
+            }
+        ]
+    },
+    "E08000023": {
+        "index-entry-number": "9",
+        "entry-number": "9",
+        "entry-timestamp": "2017-11-29T13:23:25Z",
+        "key": "E08000023",
+        "item": [
+            {
+                "statistical-geography-metropolitan-district-eng": "E08000023",
+                "local-authority-eng": "STY",
+                "start-date": "2009-01-01"
+            }
+        ]
+    },
+    "E08000002": {
+        "index-entry-number": "34",
+        "entry-number": "34",
+        "entry-timestamp": "2017-11-29T13:23:25Z",
+        "key": "E08000002",
+        "item": [
+            {
+                "statistical-geography-metropolitan-district-eng": "E08000002",
+                "local-authority-eng": "BUR",
+                "start-date": "2009-01-01"
+            }
+        ]
+    },
+    "E08000024": {
+        "index-entry-number": "11",
+        "entry-number": "11",
+        "entry-timestamp": "2017-11-29T13:23:25Z",
+        "key": "E08000024",
+        "item": [
+            {
+                "statistical-geography-metropolitan-district-eng": "E08000024",
+                "local-authority-eng": "SND",
+                "start-date": "2009-01-01"
+            }
+        ]
+    },
+    "E08000021": {
+        "index-entry-number": "22",
+        "entry-number": "22",
+        "entry-timestamp": "2017-11-29T13:23:25Z",
+        "key": "E08000021",
+        "item": [
+            {
+                "statistical-geography-metropolitan-district-eng": "E08000021",
+                "local-authority-eng": "NET",
+                "start-date": "2009-01-01"
+            }
+        ]
+    },
+    "E08000022": {
+        "index-entry-number": "21",
+        "entry-number": "21",
+        "entry-timestamp": "2017-11-29T13:23:25Z",
+        "key": "E08000022",
+        "item": [
+            {
+                "statistical-geography-metropolitan-district-eng": "E08000022",
+                "local-authority-eng": "NTY",
+                "start-date": "2009-01-01"
+            }
+        ]
+    },
+    "E08000027": {
+        "index-entry-number": "30",
+        "entry-number": "30",
+        "entry-timestamp": "2017-11-29T13:23:25Z",
+        "key": "E08000027",
+        "item": [
+            {
+                "statistical-geography-metropolitan-district-eng": "E08000027",
+                "local-authority-eng": "DUD",
+                "start-date": "2009-01-01"
+            }
+        ]
+    },
+    "E08000005": {
+        "index-entry-number": "19",
+        "entry-number": "19",
+        "entry-timestamp": "2017-11-29T13:23:25Z",
+        "key": "E08000005",
+        "item": [
+            {
+                "statistical-geography-metropolitan-district-eng": "E08000005",
+                "local-authority-eng": "RCH",
+                "start-date": "2009-01-01"
+            }
+        ]
+    },
+    "E08000028": {
+        "index-entry-number": "17",
+        "entry-number": "17",
+        "entry-timestamp": "2017-11-29T13:23:25Z",
+        "key": "E08000028",
+        "item": [
+            {
+                "statistical-geography-metropolitan-district-eng": "E08000028",
+                "local-authority-eng": "SAW",
+                "start-date": "2009-01-01"
+            }
+        ]
+    },
+    "E08000006": {
+        "index-entry-number": "12",
+        "entry-number": "12",
+        "entry-timestamp": "2017-11-29T13:23:25Z",
+        "key": "E08000006",
+        "item": [
+            {
+                "statistical-geography-metropolitan-district-eng": "E08000006",
+                "local-authority-eng": "SLF",
+                "start-date": "2009-01-01"
+            }
+        ]
+    },
+    "E08000003": {
+        "index-entry-number": "23",
+        "entry-number": "23",
+        "entry-timestamp": "2017-11-29T13:23:25Z",
+        "key": "E08000003",
+        "item": [
+            {
+                "statistical-geography-metropolitan-district-eng": "E08000003",
+                "local-authority-eng": "MAN",
+                "start-date": "2009-01-01"
+            }
+        ]
+    },
+    "E08000025": {
+        "index-entry-number": "1",
+        "entry-number": "1",
+        "entry-timestamp": "2017-11-29T13:23:25Z",
+        "key": "E08000025",
+        "item": [
+            {
+                "statistical-geography-metropolitan-district-eng": "E08000025",
+                "local-authority-eng": "BIR",
+                "start-date": "2009-01-01"
+            }
+        ]
+    },
+    "E08000026": {
+        "index-entry-number": "32",
+        "entry-number": "32",
+        "entry-timestamp": "2017-11-29T13:23:25Z",
+        "key": "E08000026",
+        "item": [
+            {
+                "statistical-geography-metropolitan-district-eng": "E08000026",
+                "local-authority-eng": "COV",
+                "start-date": "2009-01-01"
+            }
+        ]
+    },
+    "E08000004": {
+        "index-entry-number": "20",
+        "entry-number": "20",
+        "entry-timestamp": "2017-11-29T13:23:25Z",
+        "key": "E08000004",
+        "item": [
+            {
+                "statistical-geography-metropolitan-district-eng": "E08000004",
+                "local-authority-eng": "OLD",
+                "start-date": "2009-01-01"
+            }
+        ]
+    },
+    "E08000009": {
+        "index-entry-number": "7",
+        "entry-number": "7",
+        "entry-timestamp": "2017-11-29T13:23:25Z",
+        "key": "E08000009",
+        "item": [
+            {
+                "statistical-geography-metropolitan-district-eng": "E08000009",
+                "local-authority-eng": "TRF",
+                "start-date": "2009-01-01"
+            }
+        ]
+    },
+    "E08000007": {
+        "index-entry-number": "13",
+        "entry-number": "13",
+        "entry-timestamp": "2017-11-29T13:23:25Z",
+        "key": "E08000007",
+        "item": [
+            {
+                "statistical-geography-metropolitan-district-eng": "E08000007",
+                "local-authority-eng": "SKP",
+                "start-date": "2009-01-01"
+            }
+        ]
+    },
+    "E08000029": {
+        "index-entry-number": "10",
+        "entry-number": "10",
+        "entry-timestamp": "2017-11-29T13:23:25Z",
+        "key": "E08000029",
+        "item": [
+            {
+                "statistical-geography-metropolitan-district-eng": "E08000029",
+                "local-authority-eng": "SOL",
+                "start-date": "2009-01-01"
+            }
+        ]
+    },
+    "E08000008": {
+        "index-entry-number": "8",
+        "entry-number": "8",
+        "entry-timestamp": "2017-11-29T13:23:25Z",
+        "key": "E08000008",
+        "item": [
+            {
+                "statistical-geography-metropolitan-district-eng": "E08000008",
+                "local-authority-eng": "TAM",
+                "start-date": "2009-01-01"
+            }
+        ]
+    }
+}

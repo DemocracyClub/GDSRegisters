@@ -1,0 +1,2873 @@
+{
+    "10A": {
+        "index-entry-number": "167",
+        "entry-number": "167",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "10A",
+        "item": [
+            {
+                "clinical-commissioning-group": "10A",
+                "name": "NHS South Kent Coast CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "10C": {
+        "index-entry-number": "168",
+        "entry-number": "168",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "10C",
+        "item": [
+            {
+                "clinical-commissioning-group": "10C",
+                "name": "NHS Surrey Heath CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "10D": {
+        "index-entry-number": "169",
+        "entry-number": "169",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "10D",
+        "item": [
+            {
+                "clinical-commissioning-group": "10D",
+                "name": "NHS Swale CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "10E": {
+        "index-entry-number": "170",
+        "entry-number": "170",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "10E",
+        "item": [
+            {
+                "clinical-commissioning-group": "10E",
+                "name": "NHS Thanet CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "10G": {
+        "index-entry-number": "238",
+        "entry-number": "238",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "10G",
+        "item": [
+            {
+                "end-date": "2018-03-31",
+                "clinical-commissioning-group": "10G",
+                "name": "NHS Bracknell and Ascot CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "10H": {
+        "index-entry-number": "239",
+        "entry-number": "239",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "10H",
+        "item": [
+            {
+                "end-date": "2018-03-31",
+                "clinical-commissioning-group": "10H",
+                "name": "NHS Chiltern CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "10J": {
+        "index-entry-number": "173",
+        "entry-number": "173",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "10J",
+        "item": [
+            {
+                "clinical-commissioning-group": "10J",
+                "name": "NHS North Hampshire CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "10K": {
+        "index-entry-number": "174",
+        "entry-number": "174",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "10K",
+        "item": [
+            {
+                "clinical-commissioning-group": "10K",
+                "name": "NHS Fareham and Gosport CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "10L": {
+        "index-entry-number": "175",
+        "entry-number": "175",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "10L",
+        "item": [
+            {
+                "clinical-commissioning-group": "10L",
+                "name": "NHS Isle of Wight CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "10M": {
+        "index-entry-number": "240",
+        "entry-number": "240",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "10M",
+        "item": [
+            {
+                "end-date": "2018-03-31",
+                "clinical-commissioning-group": "10M",
+                "name": "NHS Newbury and District CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "10N": {
+        "index-entry-number": "241",
+        "entry-number": "241",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "10N",
+        "item": [
+            {
+                "end-date": "2018-03-31",
+                "clinical-commissioning-group": "10N",
+                "name": "NHS North and West Reading CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "10Q": {
+        "index-entry-number": "178",
+        "entry-number": "178",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "10Q",
+        "item": [
+            {
+                "clinical-commissioning-group": "10Q",
+                "name": "NHS Oxfordshire CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "10R": {
+        "index-entry-number": "179",
+        "entry-number": "179",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "10R",
+        "item": [
+            {
+                "clinical-commissioning-group": "10R",
+                "name": "NHS Portsmouth CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "10T": {
+        "index-entry-number": "242",
+        "entry-number": "242",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "10T",
+        "item": [
+            {
+                "end-date": "2018-03-31",
+                "clinical-commissioning-group": "10T",
+                "name": "NHS Slough CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "10V": {
+        "index-entry-number": "181",
+        "entry-number": "181",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "10V",
+        "item": [
+            {
+                "clinical-commissioning-group": "10V",
+                "name": "NHS South Eastern Hampshire CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "10W": {
+        "index-entry-number": "243",
+        "entry-number": "243",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "10W",
+        "item": [
+            {
+                "end-date": "2018-03-31",
+                "clinical-commissioning-group": "10W",
+                "name": "NHS South Reading CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "10X": {
+        "index-entry-number": "183",
+        "entry-number": "183",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "10X",
+        "item": [
+            {
+                "clinical-commissioning-group": "10X",
+                "name": "NHS Southampton CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "10Y": {
+        "index-entry-number": "244",
+        "entry-number": "244",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "10Y",
+        "item": [
+            {
+                "end-date": "2018-03-31",
+                "clinical-commissioning-group": "10Y",
+                "name": "NHS Aylesbury Vale CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "11A": {
+        "index-entry-number": "185",
+        "entry-number": "185",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "11A",
+        "item": [
+            {
+                "clinical-commissioning-group": "11A",
+                "name": "NHS West Hampshire CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "11C": {
+        "index-entry-number": "245",
+        "entry-number": "245",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "11C",
+        "item": [
+            {
+                "end-date": "2018-03-31",
+                "clinical-commissioning-group": "11C",
+                "name": "NHS Windsor, Ascot and Maidenhead CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "11D": {
+        "index-entry-number": "246",
+        "entry-number": "246",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "11D",
+        "item": [
+            {
+                "end-date": "2018-03-31",
+                "clinical-commissioning-group": "11D",
+                "name": "NHS Wokingham CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "11E": {
+        "index-entry-number": "188",
+        "entry-number": "188",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "11E",
+        "item": [
+            {
+                "clinical-commissioning-group": "11E",
+                "name": "NHS Bath and North East Somerset CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "11H": {
+        "index-entry-number": "247",
+        "entry-number": "247",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "11H",
+        "item": [
+            {
+                "end-date": "2018-03-31",
+                "clinical-commissioning-group": "11H",
+                "name": "NHS Bristol CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "11J": {
+        "index-entry-number": "190",
+        "entry-number": "190",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "11J",
+        "item": [
+            {
+                "clinical-commissioning-group": "11J",
+                "name": "NHS Dorset CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "11M": {
+        "index-entry-number": "191",
+        "entry-number": "191",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "11M",
+        "item": [
+            {
+                "clinical-commissioning-group": "11M",
+                "name": "NHS Gloucestershire CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "11N": {
+        "index-entry-number": "192",
+        "entry-number": "192",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "11N",
+        "item": [
+            {
+                "clinical-commissioning-group": "11N",
+                "name": "NHS Kernow CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "11T": {
+        "index-entry-number": "248",
+        "entry-number": "248",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "11T",
+        "item": [
+            {
+                "end-date": "2018-03-31",
+                "clinical-commissioning-group": "11T",
+                "name": "NHS North Somerset CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "11X": {
+        "index-entry-number": "194",
+        "entry-number": "194",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "11X",
+        "item": [
+            {
+                "clinical-commissioning-group": "11X",
+                "name": "NHS Somerset CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "12A": {
+        "index-entry-number": "249",
+        "entry-number": "249",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "12A",
+        "item": [
+            {
+                "end-date": "2018-03-31",
+                "clinical-commissioning-group": "12A",
+                "name": "NHS South Gloucestershire CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "12D": {
+        "index-entry-number": "196",
+        "entry-number": "196",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "12D",
+        "item": [
+            {
+                "clinical-commissioning-group": "12D",
+                "name": "NHS Swindon CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "00C": {
+        "index-entry-number": "1",
+        "entry-number": "1",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "00C",
+        "item": [
+            {
+                "clinical-commissioning-group": "00C",
+                "name": "NHS Darlington CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "00D": {
+        "index-entry-number": "2",
+        "entry-number": "2",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "00D",
+        "item": [
+            {
+                "clinical-commissioning-group": "00D",
+                "name": "NHS Durham Dales, Easington and Sedgefield CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "12F": {
+        "index-entry-number": "197",
+        "entry-number": "197",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "12F",
+        "item": [
+            {
+                "clinical-commissioning-group": "12F",
+                "name": "NHS Wirral CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "00F": {
+        "index-entry-number": "213",
+        "entry-number": "213",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "00F",
+        "item": [
+            {
+                "end-date": "2015-03-31",
+                "clinical-commissioning-group": "00F",
+                "name": "NHS Gateshead CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "00G": {
+        "index-entry-number": "214",
+        "entry-number": "214",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "00G",
+        "item": [
+            {
+                "end-date": "2015-03-31",
+                "clinical-commissioning-group": "00G",
+                "name": "NHS Newcastle North and East CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "00H": {
+        "index-entry-number": "215",
+        "entry-number": "215",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "00H",
+        "item": [
+            {
+                "end-date": "2015-03-31",
+                "clinical-commissioning-group": "00H",
+                "name": "NHS Newcastle West CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "00J": {
+        "index-entry-number": "6",
+        "entry-number": "6",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "00J",
+        "item": [
+            {
+                "clinical-commissioning-group": "00J",
+                "name": "NHS North Durham CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "00K": {
+        "index-entry-number": "7",
+        "entry-number": "7",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "00K",
+        "item": [
+            {
+                "clinical-commissioning-group": "00K",
+                "name": "NHS Hartlepool and Stockton-On-Tees CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "00L": {
+        "index-entry-number": "8",
+        "entry-number": "8",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "00L",
+        "item": [
+            {
+                "clinical-commissioning-group": "00L",
+                "name": "NHS Northumberland CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "00M": {
+        "index-entry-number": "9",
+        "entry-number": "9",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "00M",
+        "item": [
+            {
+                "clinical-commissioning-group": "00M",
+                "name": "NHS South Tees CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "00N": {
+        "index-entry-number": "10",
+        "entry-number": "10",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "00N",
+        "item": [
+            {
+                "clinical-commissioning-group": "00N",
+                "name": "NHS South Tyneside CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "00P": {
+        "index-entry-number": "11",
+        "entry-number": "11",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "00P",
+        "item": [
+            {
+                "clinical-commissioning-group": "00P",
+                "name": "NHS Sunderland CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "00Q": {
+        "index-entry-number": "12",
+        "entry-number": "12",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "00Q",
+        "item": [
+            {
+                "clinical-commissioning-group": "00Q",
+                "name": "NHS Blackburn With Darwen CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "00R": {
+        "index-entry-number": "13",
+        "entry-number": "13",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "00R",
+        "item": [
+            {
+                "clinical-commissioning-group": "00R",
+                "name": "NHS Blackpool CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "00T": {
+        "index-entry-number": "14",
+        "entry-number": "14",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "00T",
+        "item": [
+            {
+                "clinical-commissioning-group": "00T",
+                "name": "NHS Bolton CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "00V": {
+        "index-entry-number": "15",
+        "entry-number": "15",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "00V",
+        "item": [
+            {
+                "clinical-commissioning-group": "00V",
+                "name": "NHS Bury CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "00W": {
+        "index-entry-number": "219",
+        "entry-number": "219",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "00W",
+        "item": [
+            {
+                "end-date": "2017-03-31",
+                "clinical-commissioning-group": "00W",
+                "name": "NHS Central Manchester CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "00X": {
+        "index-entry-number": "17",
+        "entry-number": "17",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "00X",
+        "item": [
+            {
+                "clinical-commissioning-group": "00X",
+                "name": "NHS Chorley and South Ribble CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "00Y": {
+        "index-entry-number": "18",
+        "entry-number": "18",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "00Y",
+        "item": [
+            {
+                "clinical-commissioning-group": "00Y",
+                "name": "NHS Oldham CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "01A": {
+        "index-entry-number": "19",
+        "entry-number": "19",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "01A",
+        "item": [
+            {
+                "clinical-commissioning-group": "01A",
+                "name": "NHS East Lancashire CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "01C": {
+        "index-entry-number": "20",
+        "entry-number": "20",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "01C",
+        "item": [
+            {
+                "clinical-commissioning-group": "01C",
+                "name": "NHS Eastern Cheshire CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "01D": {
+        "index-entry-number": "21",
+        "entry-number": "21",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "01D",
+        "item": [
+            {
+                "clinical-commissioning-group": "01D",
+                "name": "NHS Heywood, Middleton and Rochdale CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "01E": {
+        "index-entry-number": "22",
+        "entry-number": "22",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "01E",
+        "item": [
+            {
+                "clinical-commissioning-group": "01E",
+                "name": "NHS Greater Preston CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "01F": {
+        "index-entry-number": "23",
+        "entry-number": "23",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "01F",
+        "item": [
+            {
+                "clinical-commissioning-group": "01F",
+                "name": "NHS Halton CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "01G": {
+        "index-entry-number": "24",
+        "entry-number": "24",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "01G",
+        "item": [
+            {
+                "clinical-commissioning-group": "01G",
+                "name": "NHS Salford CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "01H": {
+        "index-entry-number": "220",
+        "entry-number": "220",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "01H",
+        "item": [
+            {
+                "clinical-commissioning-group": "01H",
+                "name": "NHS North Cumbria CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "01J": {
+        "index-entry-number": "26",
+        "entry-number": "26",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "01J",
+        "item": [
+            {
+                "clinical-commissioning-group": "01J",
+                "name": "NHS Knowsley CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "01K": {
+        "index-entry-number": "221",
+        "entry-number": "221",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "01K",
+        "item": [
+            {
+                "clinical-commissioning-group": "01K",
+                "name": "NHS Morecambe Bay CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "01M": {
+        "index-entry-number": "222",
+        "entry-number": "222",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "01M",
+        "item": [
+            {
+                "end-date": "2017-03-31",
+                "clinical-commissioning-group": "01M",
+                "name": "NHS North Manchester CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "01N": {
+        "index-entry-number": "223",
+        "entry-number": "223",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "01N",
+        "item": [
+            {
+                "end-date": "2017-03-31",
+                "clinical-commissioning-group": "01N",
+                "name": "NHS South Manchester CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "13P": {
+        "index-entry-number": "250",
+        "entry-number": "250",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "13P",
+        "item": [
+            {
+                "end-date": "2018-03-31",
+                "clinical-commissioning-group": "13P",
+                "name": "NHS Birmingham Crosscity CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "01R": {
+        "index-entry-number": "30",
+        "entry-number": "30",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "01R",
+        "item": [
+            {
+                "clinical-commissioning-group": "01R",
+                "name": "NHS South Cheshire CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "13T": {
+        "index-entry-number": "216",
+        "entry-number": "216",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "13T",
+        "item": [
+            {
+                "clinical-commissioning-group": "13T",
+                "name": "NHS Newcastle Gateshead CCG",
+                "start-date": "2014-11-26"
+            }
+        ]
+    },
+    "01T": {
+        "index-entry-number": "31",
+        "entry-number": "31",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "01T",
+        "item": [
+            {
+                "clinical-commissioning-group": "01T",
+                "name": "NHS South Sefton CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "01V": {
+        "index-entry-number": "32",
+        "entry-number": "32",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "01V",
+        "item": [
+            {
+                "clinical-commissioning-group": "01V",
+                "name": "NHS Southport and Formby CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "01W": {
+        "index-entry-number": "33",
+        "entry-number": "33",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "01W",
+        "item": [
+            {
+                "clinical-commissioning-group": "01W",
+                "name": "NHS Stockport CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "01X": {
+        "index-entry-number": "34",
+        "entry-number": "34",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "01X",
+        "item": [
+            {
+                "clinical-commissioning-group": "01X",
+                "name": "NHS St Helens CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "01Y": {
+        "index-entry-number": "35",
+        "entry-number": "35",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "01Y",
+        "item": [
+            {
+                "clinical-commissioning-group": "01Y",
+                "name": "NHS Tameside and Glossop CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "02A": {
+        "index-entry-number": "36",
+        "entry-number": "36",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "02A",
+        "item": [
+            {
+                "clinical-commissioning-group": "02A",
+                "name": "NHS Trafford CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "02D": {
+        "index-entry-number": "37",
+        "entry-number": "37",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "02D",
+        "item": [
+            {
+                "clinical-commissioning-group": "02D",
+                "name": "NHS Vale Royal CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "02E": {
+        "index-entry-number": "38",
+        "entry-number": "38",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "02E",
+        "item": [
+            {
+                "clinical-commissioning-group": "02E",
+                "name": "NHS Warrington CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "02F": {
+        "index-entry-number": "39",
+        "entry-number": "39",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "02F",
+        "item": [
+            {
+                "clinical-commissioning-group": "02F",
+                "name": "NHS West Cheshire CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "02G": {
+        "index-entry-number": "40",
+        "entry-number": "40",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "02G",
+        "item": [
+            {
+                "clinical-commissioning-group": "02G",
+                "name": "NHS West Lancashire CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "02H": {
+        "index-entry-number": "41",
+        "entry-number": "41",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "02H",
+        "item": [
+            {
+                "clinical-commissioning-group": "02H",
+                "name": "NHS Wigan Borough CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "14L": {
+        "index-entry-number": "218",
+        "entry-number": "218",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "14L",
+        "item": [
+            {
+                "clinical-commissioning-group": "14L",
+                "name": "NHS Manchester CCG",
+                "start-date": "2017-04-01"
+            }
+        ]
+    },
+    "02M": {
+        "index-entry-number": "224",
+        "entry-number": "224",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "02M",
+        "item": [
+            {
+                "clinical-commissioning-group": "02M",
+                "name": "NHS Fylde and Wyre CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "02N": {
+        "index-entry-number": "43",
+        "entry-number": "43",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "02N",
+        "item": [
+            {
+                "clinical-commissioning-group": "02N",
+                "name": "NHS Airedale, Wharfedale and Craven CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "02P": {
+        "index-entry-number": "44",
+        "entry-number": "44",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "02P",
+        "item": [
+            {
+                "clinical-commissioning-group": "02P",
+                "name": "NHS Barnsley CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "02Q": {
+        "index-entry-number": "45",
+        "entry-number": "45",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "02Q",
+        "item": [
+            {
+                "clinical-commissioning-group": "02Q",
+                "name": "NHS Bassetlaw CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "02R": {
+        "index-entry-number": "46",
+        "entry-number": "46",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "02R",
+        "item": [
+            {
+                "clinical-commissioning-group": "02R",
+                "name": "NHS Bradford Districts CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "02T": {
+        "index-entry-number": "47",
+        "entry-number": "47",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "02T",
+        "item": [
+            {
+                "clinical-commissioning-group": "02T",
+                "name": "NHS Calderdale CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "02V": {
+        "index-entry-number": "233",
+        "entry-number": "233",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "02V",
+        "item": [
+            {
+                "end-date": "2018-03-31",
+                "clinical-commissioning-group": "02V",
+                "name": "NHS Leeds North CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "02W": {
+        "index-entry-number": "49",
+        "entry-number": "49",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "02W",
+        "item": [
+            {
+                "clinical-commissioning-group": "02W",
+                "name": "NHS Bradford City CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "14Y": {
+        "index-entry-number": "226",
+        "entry-number": "226",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "14Y",
+        "item": [
+            {
+                "clinical-commissioning-group": "14Y",
+                "name": "NHS Buckinghamshire CCG",
+                "start-date": "2018-04-01"
+            }
+        ]
+    },
+    "02X": {
+        "index-entry-number": "50",
+        "entry-number": "50",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "02X",
+        "item": [
+            {
+                "clinical-commissioning-group": "02X",
+                "name": "NHS Doncaster CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "02Y": {
+        "index-entry-number": "51",
+        "entry-number": "51",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "02Y",
+        "item": [
+            {
+                "clinical-commissioning-group": "02Y",
+                "name": "NHS East Riding of Yorkshire CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "15A": {
+        "index-entry-number": "227",
+        "entry-number": "227",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "15A",
+        "item": [
+            {
+                "clinical-commissioning-group": "15A",
+                "name": "NHS Berkshire West CCG",
+                "start-date": "2018-04-01"
+            }
+        ]
+    },
+    "03A": {
+        "index-entry-number": "52",
+        "entry-number": "52",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "03A",
+        "item": [
+            {
+                "clinical-commissioning-group": "03A",
+                "name": "NHS Greater Huddersfield CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "15C": {
+        "index-entry-number": "228",
+        "entry-number": "228",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "15C",
+        "item": [
+            {
+                "clinical-commissioning-group": "15C",
+                "name": "NHS Bristol, North Somerset and South Gloucestershire CCG",
+                "start-date": "2018-04-01"
+            }
+        ]
+    },
+    "03C": {
+        "index-entry-number": "234",
+        "entry-number": "234",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "03C",
+        "item": [
+            {
+                "end-date": "2018-03-31",
+                "clinical-commissioning-group": "03C",
+                "name": "NHS Leeds West CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "15D": {
+        "index-entry-number": "229",
+        "entry-number": "229",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "15D",
+        "item": [
+            {
+                "clinical-commissioning-group": "15D",
+                "name": "NHS East Berkshire CCG",
+                "start-date": "2018-04-01"
+            }
+        ]
+    },
+    "15E": {
+        "index-entry-number": "232",
+        "entry-number": "232",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "15E",
+        "item": [
+            {
+                "clinical-commissioning-group": "15E",
+                "name": "NHS Birmingham and Solihull CCG",
+                "start-date": "2018-04-01"
+            }
+        ]
+    },
+    "03D": {
+        "index-entry-number": "54",
+        "entry-number": "54",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "03D",
+        "item": [
+            {
+                "clinical-commissioning-group": "03D",
+                "name": "NHS Hambleton, Richmondshire and Whitby CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "15F": {
+        "index-entry-number": "231",
+        "entry-number": "231",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "15F",
+        "item": [
+            {
+                "clinical-commissioning-group": "15F",
+                "name": "NHS Leeds CCG",
+                "start-date": "2018-04-01"
+            }
+        ]
+    },
+    "03E": {
+        "index-entry-number": "55",
+        "entry-number": "55",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "03E",
+        "item": [
+            {
+                "clinical-commissioning-group": "03E",
+                "name": "NHS Harrogate and Rural District CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "03F": {
+        "index-entry-number": "56",
+        "entry-number": "56",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "03F",
+        "item": [
+            {
+                "clinical-commissioning-group": "03F",
+                "name": "NHS Hull CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "03G": {
+        "index-entry-number": "235",
+        "entry-number": "235",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "03G",
+        "item": [
+            {
+                "end-date": "2018-03-31",
+                "clinical-commissioning-group": "03G",
+                "name": "NHS Leeds South and East CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "03H": {
+        "index-entry-number": "58",
+        "entry-number": "58",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "03H",
+        "item": [
+            {
+                "clinical-commissioning-group": "03H",
+                "name": "NHS North East Lincolnshire CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "03J": {
+        "index-entry-number": "59",
+        "entry-number": "59",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "03J",
+        "item": [
+            {
+                "clinical-commissioning-group": "03J",
+                "name": "NHS North Kirklees CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "03K": {
+        "index-entry-number": "60",
+        "entry-number": "60",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "03K",
+        "item": [
+            {
+                "clinical-commissioning-group": "03K",
+                "name": "NHS North Lincolnshire CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "03L": {
+        "index-entry-number": "61",
+        "entry-number": "61",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "03L",
+        "item": [
+            {
+                "clinical-commissioning-group": "03L",
+                "name": "NHS Rotherham CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "03M": {
+        "index-entry-number": "62",
+        "entry-number": "62",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "03M",
+        "item": [
+            {
+                "clinical-commissioning-group": "03M",
+                "name": "NHS Scarborough and Ryedale CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "03N": {
+        "index-entry-number": "63",
+        "entry-number": "63",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "03N",
+        "item": [
+            {
+                "clinical-commissioning-group": "03N",
+                "name": "NHS Sheffield CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "03Q": {
+        "index-entry-number": "64",
+        "entry-number": "64",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "03Q",
+        "item": [
+            {
+                "clinical-commissioning-group": "03Q",
+                "name": "NHS Vale of York CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "03R": {
+        "index-entry-number": "65",
+        "entry-number": "65",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "03R",
+        "item": [
+            {
+                "clinical-commissioning-group": "03R",
+                "name": "NHS Wakefield CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "03T": {
+        "index-entry-number": "66",
+        "entry-number": "66",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "03T",
+        "item": [
+            {
+                "clinical-commissioning-group": "03T",
+                "name": "NHS Lincolnshire East CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "03V": {
+        "index-entry-number": "67",
+        "entry-number": "67",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "03V",
+        "item": [
+            {
+                "clinical-commissioning-group": "03V",
+                "name": "NHS Corby CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "03W": {
+        "index-entry-number": "68",
+        "entry-number": "68",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "03W",
+        "item": [
+            {
+                "clinical-commissioning-group": "03W",
+                "name": "NHS East Leicestershire and Rutland CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "03X": {
+        "index-entry-number": "69",
+        "entry-number": "69",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "03X",
+        "item": [
+            {
+                "clinical-commissioning-group": "03X",
+                "name": "NHS Erewash CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "03Y": {
+        "index-entry-number": "70",
+        "entry-number": "70",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "03Y",
+        "item": [
+            {
+                "clinical-commissioning-group": "03Y",
+                "name": "NHS Hardwick CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "04C": {
+        "index-entry-number": "71",
+        "entry-number": "71",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "04C",
+        "item": [
+            {
+                "clinical-commissioning-group": "04C",
+                "name": "NHS Leicester City CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "04D": {
+        "index-entry-number": "72",
+        "entry-number": "72",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "04D",
+        "item": [
+            {
+                "clinical-commissioning-group": "04D",
+                "name": "NHS Lincolnshire West CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "04E": {
+        "index-entry-number": "73",
+        "entry-number": "73",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "04E",
+        "item": [
+            {
+                "clinical-commissioning-group": "04E",
+                "name": "NHS Mansfield and Ashfield CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "04F": {
+        "index-entry-number": "74",
+        "entry-number": "74",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "04F",
+        "item": [
+            {
+                "clinical-commissioning-group": "04F",
+                "name": "NHS Milton Keynes CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "04G": {
+        "index-entry-number": "75",
+        "entry-number": "75",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "04G",
+        "item": [
+            {
+                "clinical-commissioning-group": "04G",
+                "name": "NHS Nene CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "04H": {
+        "index-entry-number": "217",
+        "entry-number": "217",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "04H",
+        "item": [
+            {
+                "clinical-commissioning-group": "04H",
+                "name": "NHS Newark and Sherwood CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "04J": {
+        "index-entry-number": "77",
+        "entry-number": "77",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "04J",
+        "item": [
+            {
+                "clinical-commissioning-group": "04J",
+                "name": "NHS North Derbyshire CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "04K": {
+        "index-entry-number": "78",
+        "entry-number": "78",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "04K",
+        "item": [
+            {
+                "clinical-commissioning-group": "04K",
+                "name": "NHS Nottingham City CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "04L": {
+        "index-entry-number": "79",
+        "entry-number": "79",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "04L",
+        "item": [
+            {
+                "clinical-commissioning-group": "04L",
+                "name": "NHS Nottingham North and East CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "04M": {
+        "index-entry-number": "80",
+        "entry-number": "80",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "04M",
+        "item": [
+            {
+                "clinical-commissioning-group": "04M",
+                "name": "NHS Nottingham West CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "04N": {
+        "index-entry-number": "81",
+        "entry-number": "81",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "04N",
+        "item": [
+            {
+                "clinical-commissioning-group": "04N",
+                "name": "NHS Rushcliffe CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "04Q": {
+        "index-entry-number": "82",
+        "entry-number": "82",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "04Q",
+        "item": [
+            {
+                "clinical-commissioning-group": "04Q",
+                "name": "NHS South West Lincolnshire CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "04R": {
+        "index-entry-number": "83",
+        "entry-number": "83",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "04R",
+        "item": [
+            {
+                "clinical-commissioning-group": "04R",
+                "name": "NHS Southern Derbyshire CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "04V": {
+        "index-entry-number": "84",
+        "entry-number": "84",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "04V",
+        "item": [
+            {
+                "clinical-commissioning-group": "04V",
+                "name": "NHS West Leicestershire CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "04X": {
+        "index-entry-number": "236",
+        "entry-number": "236",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "04X",
+        "item": [
+            {
+                "end-date": "2018-03-31",
+                "clinical-commissioning-group": "04X",
+                "name": "NHS Birmingham South and Central CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "04Y": {
+        "index-entry-number": "86",
+        "entry-number": "86",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "04Y",
+        "item": [
+            {
+                "clinical-commissioning-group": "04Y",
+                "name": "NHS Cannock Chase CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "05A": {
+        "index-entry-number": "87",
+        "entry-number": "87",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "05A",
+        "item": [
+            {
+                "clinical-commissioning-group": "05A",
+                "name": "NHS Coventry and Rugby CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "05C": {
+        "index-entry-number": "88",
+        "entry-number": "88",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "05C",
+        "item": [
+            {
+                "clinical-commissioning-group": "05C",
+                "name": "NHS Dudley CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "05D": {
+        "index-entry-number": "89",
+        "entry-number": "89",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "05D",
+        "item": [
+            {
+                "clinical-commissioning-group": "05D",
+                "name": "NHS East Staffordshire CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "05F": {
+        "index-entry-number": "90",
+        "entry-number": "90",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "05F",
+        "item": [
+            {
+                "clinical-commissioning-group": "05F",
+                "name": "NHS Herefordshire CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "05G": {
+        "index-entry-number": "91",
+        "entry-number": "91",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "05G",
+        "item": [
+            {
+                "clinical-commissioning-group": "05G",
+                "name": "NHS North Staffordshire CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "05H": {
+        "index-entry-number": "92",
+        "entry-number": "92",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "05H",
+        "item": [
+            {
+                "clinical-commissioning-group": "05H",
+                "name": "NHS Warwickshire North CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "05J": {
+        "index-entry-number": "93",
+        "entry-number": "93",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "05J",
+        "item": [
+            {
+                "clinical-commissioning-group": "05J",
+                "name": "NHS Redditch and Bromsgrove CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "05L": {
+        "index-entry-number": "94",
+        "entry-number": "94",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "05L",
+        "item": [
+            {
+                "clinical-commissioning-group": "05L",
+                "name": "NHS Sandwell and West Birmingham CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "05N": {
+        "index-entry-number": "95",
+        "entry-number": "95",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "05N",
+        "item": [
+            {
+                "clinical-commissioning-group": "05N",
+                "name": "NHS Shropshire CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "05P": {
+        "index-entry-number": "237",
+        "entry-number": "237",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "05P",
+        "item": [
+            {
+                "end-date": "2018-03-31",
+                "clinical-commissioning-group": "05P",
+                "name": "NHS Solihull CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "05Q": {
+        "index-entry-number": "97",
+        "entry-number": "97",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "05Q",
+        "item": [
+            {
+                "clinical-commissioning-group": "05Q",
+                "name": "NHS South East Staffordshire and Seisdon Peninsula CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "05R": {
+        "index-entry-number": "98",
+        "entry-number": "98",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "05R",
+        "item": [
+            {
+                "clinical-commissioning-group": "05R",
+                "name": "NHS South Warwickshire CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "05T": {
+        "index-entry-number": "99",
+        "entry-number": "99",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "05T",
+        "item": [
+            {
+                "clinical-commissioning-group": "05T",
+                "name": "NHS South Worcestershire CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "05V": {
+        "index-entry-number": "100",
+        "entry-number": "100",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "05V",
+        "item": [
+            {
+                "clinical-commissioning-group": "05V",
+                "name": "NHS Stafford and Surrounds CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "05W": {
+        "index-entry-number": "101",
+        "entry-number": "101",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "05W",
+        "item": [
+            {
+                "clinical-commissioning-group": "05W",
+                "name": "NHS Stoke on Trent CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "05X": {
+        "index-entry-number": "102",
+        "entry-number": "102",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "05X",
+        "item": [
+            {
+                "clinical-commissioning-group": "05X",
+                "name": "NHS Telford and Wrekin CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "05Y": {
+        "index-entry-number": "103",
+        "entry-number": "103",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "05Y",
+        "item": [
+            {
+                "clinical-commissioning-group": "05Y",
+                "name": "NHS Walsall CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "06A": {
+        "index-entry-number": "104",
+        "entry-number": "104",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "06A",
+        "item": [
+            {
+                "clinical-commissioning-group": "06A",
+                "name": "NHS Wolverhampton CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "06D": {
+        "index-entry-number": "105",
+        "entry-number": "105",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "06D",
+        "item": [
+            {
+                "clinical-commissioning-group": "06D",
+                "name": "NHS Wyre Forest CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "06F": {
+        "index-entry-number": "106",
+        "entry-number": "106",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "06F",
+        "item": [
+            {
+                "clinical-commissioning-group": "06F",
+                "name": "NHS Bedfordshire CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "06H": {
+        "index-entry-number": "107",
+        "entry-number": "107",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "06H",
+        "item": [
+            {
+                "clinical-commissioning-group": "06H",
+                "name": "NHS Cambridgeshire and Peterborough CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "06K": {
+        "index-entry-number": "108",
+        "entry-number": "108",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "06K",
+        "item": [
+            {
+                "clinical-commissioning-group": "06K",
+                "name": "NHS East And North Hertfordshire CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "06L": {
+        "index-entry-number": "109",
+        "entry-number": "109",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "06L",
+        "item": [
+            {
+                "clinical-commissioning-group": "06L",
+                "name": "NHS Ipswich and East Suffolk CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "06M": {
+        "index-entry-number": "110",
+        "entry-number": "110",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "06M",
+        "item": [
+            {
+                "clinical-commissioning-group": "06M",
+                "name": "NHS Great Yarmouth and Waveney CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "06N": {
+        "index-entry-number": "111",
+        "entry-number": "111",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "06N",
+        "item": [
+            {
+                "clinical-commissioning-group": "06N",
+                "name": "NHS Herts Valleys CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "06P": {
+        "index-entry-number": "112",
+        "entry-number": "112",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "06P",
+        "item": [
+            {
+                "clinical-commissioning-group": "06P",
+                "name": "NHS Luton CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "06Q": {
+        "index-entry-number": "113",
+        "entry-number": "113",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "06Q",
+        "item": [
+            {
+                "clinical-commissioning-group": "06Q",
+                "name": "NHS Mid Essex CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "06T": {
+        "index-entry-number": "114",
+        "entry-number": "114",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "06T",
+        "item": [
+            {
+                "clinical-commissioning-group": "06T",
+                "name": "NHS North East Essex CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "06V": {
+        "index-entry-number": "115",
+        "entry-number": "115",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "06V",
+        "item": [
+            {
+                "clinical-commissioning-group": "06V",
+                "name": "NHS North Norfolk CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "06W": {
+        "index-entry-number": "116",
+        "entry-number": "116",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "06W",
+        "item": [
+            {
+                "clinical-commissioning-group": "06W",
+                "name": "NHS Norwich CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "06Y": {
+        "index-entry-number": "117",
+        "entry-number": "117",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "06Y",
+        "item": [
+            {
+                "clinical-commissioning-group": "06Y",
+                "name": "NHS South Norfolk CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "07G": {
+        "index-entry-number": "118",
+        "entry-number": "118",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "07G",
+        "item": [
+            {
+                "clinical-commissioning-group": "07G",
+                "name": "NHS Thurrock CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "99A": {
+        "index-entry-number": "199",
+        "entry-number": "199",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "99A",
+        "item": [
+            {
+                "clinical-commissioning-group": "99A",
+                "name": "NHS Liverpool CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "07H": {
+        "index-entry-number": "119",
+        "entry-number": "119",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "07H",
+        "item": [
+            {
+                "clinical-commissioning-group": "07H",
+                "name": "NHS West Essex CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "99C": {
+        "index-entry-number": "200",
+        "entry-number": "200",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "99C",
+        "item": [
+            {
+                "clinical-commissioning-group": "99C",
+                "name": "NHS North Tyneside CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "07J": {
+        "index-entry-number": "120",
+        "entry-number": "120",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "07J",
+        "item": [
+            {
+                "clinical-commissioning-group": "07J",
+                "name": "NHS West Norfolk CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "99D": {
+        "index-entry-number": "201",
+        "entry-number": "201",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "99D",
+        "item": [
+            {
+                "clinical-commissioning-group": "99D",
+                "name": "NHS South Lincolnshire CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "07K": {
+        "index-entry-number": "121",
+        "entry-number": "121",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "07K",
+        "item": [
+            {
+                "clinical-commissioning-group": "07K",
+                "name": "NHS West Suffolk CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "99E": {
+        "index-entry-number": "202",
+        "entry-number": "202",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "99E",
+        "item": [
+            {
+                "clinical-commissioning-group": "99E",
+                "name": "NHS Basildon and Brentwood CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "07L": {
+        "index-entry-number": "122",
+        "entry-number": "122",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "07L",
+        "item": [
+            {
+                "clinical-commissioning-group": "07L",
+                "name": "NHS Barking and Dagenham CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "99F": {
+        "index-entry-number": "203",
+        "entry-number": "203",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "99F",
+        "item": [
+            {
+                "clinical-commissioning-group": "99F",
+                "name": "NHS Castle Point and Rochford CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "07M": {
+        "index-entry-number": "123",
+        "entry-number": "123",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "07M",
+        "item": [
+            {
+                "clinical-commissioning-group": "07M",
+                "name": "NHS Barnet CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "99G": {
+        "index-entry-number": "204",
+        "entry-number": "204",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "99G",
+        "item": [
+            {
+                "clinical-commissioning-group": "99G",
+                "name": "NHS Southend CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "07N": {
+        "index-entry-number": "124",
+        "entry-number": "124",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "07N",
+        "item": [
+            {
+                "clinical-commissioning-group": "07N",
+                "name": "NHS Bexley CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "99H": {
+        "index-entry-number": "205",
+        "entry-number": "205",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "99H",
+        "item": [
+            {
+                "clinical-commissioning-group": "99H",
+                "name": "NHS Surrey Downs CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "07P": {
+        "index-entry-number": "125",
+        "entry-number": "125",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "07P",
+        "item": [
+            {
+                "clinical-commissioning-group": "07P",
+                "name": "NHS Brent CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "99J": {
+        "index-entry-number": "206",
+        "entry-number": "206",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "99J",
+        "item": [
+            {
+                "clinical-commissioning-group": "99J",
+                "name": "NHS West Kent CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "07Q": {
+        "index-entry-number": "126",
+        "entry-number": "126",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "07Q",
+        "item": [
+            {
+                "clinical-commissioning-group": "07Q",
+                "name": "NHS Bromley CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "99K": {
+        "index-entry-number": "207",
+        "entry-number": "207",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "99K",
+        "item": [
+            {
+                "clinical-commissioning-group": "99K",
+                "name": "NHS High Weald Lewes Havens CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "07R": {
+        "index-entry-number": "127",
+        "entry-number": "127",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "07R",
+        "item": [
+            {
+                "clinical-commissioning-group": "07R",
+                "name": "NHS Camden CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "99M": {
+        "index-entry-number": "208",
+        "entry-number": "208",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "99M",
+        "item": [
+            {
+                "clinical-commissioning-group": "99M",
+                "name": "NHS North East Hampshire And Farnham CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "07T": {
+        "index-entry-number": "128",
+        "entry-number": "128",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "07T",
+        "item": [
+            {
+                "clinical-commissioning-group": "07T",
+                "name": "NHS City and Hackney CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "99N": {
+        "index-entry-number": "209",
+        "entry-number": "209",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "99N",
+        "item": [
+            {
+                "clinical-commissioning-group": "99N",
+                "name": "NHS Wiltshire CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "07V": {
+        "index-entry-number": "129",
+        "entry-number": "129",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "07V",
+        "item": [
+            {
+                "clinical-commissioning-group": "07V",
+                "name": "NHS Croydon CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "99P": {
+        "index-entry-number": "210",
+        "entry-number": "210",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "99P",
+        "item": [
+            {
+                "clinical-commissioning-group": "99P",
+                "name": "NHS Northern, Eastern and Western Devon CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "07W": {
+        "index-entry-number": "130",
+        "entry-number": "130",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "07W",
+        "item": [
+            {
+                "clinical-commissioning-group": "07W",
+                "name": "NHS Ealing CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "99Q": {
+        "index-entry-number": "211",
+        "entry-number": "211",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "99Q",
+        "item": [
+            {
+                "clinical-commissioning-group": "99Q",
+                "name": "NHS South Devon and Torbay CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "07X": {
+        "index-entry-number": "131",
+        "entry-number": "131",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "07X",
+        "item": [
+            {
+                "clinical-commissioning-group": "07X",
+                "name": "NHS Enfield CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "07Y": {
+        "index-entry-number": "132",
+        "entry-number": "132",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "07Y",
+        "item": [
+            {
+                "clinical-commissioning-group": "07Y",
+                "name": "NHS Hounslow CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "08A": {
+        "index-entry-number": "133",
+        "entry-number": "133",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "08A",
+        "item": [
+            {
+                "clinical-commissioning-group": "08A",
+                "name": "NHS Greenwich CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "08C": {
+        "index-entry-number": "134",
+        "entry-number": "134",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "08C",
+        "item": [
+            {
+                "clinical-commissioning-group": "08C",
+                "name": "NHS Hammersmith and Fulham CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "08D": {
+        "index-entry-number": "135",
+        "entry-number": "135",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "08D",
+        "item": [
+            {
+                "clinical-commissioning-group": "08D",
+                "name": "NHS Haringey CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "08E": {
+        "index-entry-number": "136",
+        "entry-number": "136",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "08E",
+        "item": [
+            {
+                "clinical-commissioning-group": "08E",
+                "name": "NHS Harrow CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "08F": {
+        "index-entry-number": "137",
+        "entry-number": "137",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "08F",
+        "item": [
+            {
+                "clinical-commissioning-group": "08F",
+                "name": "NHS Havering CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "08G": {
+        "index-entry-number": "138",
+        "entry-number": "138",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "08G",
+        "item": [
+            {
+                "clinical-commissioning-group": "08G",
+                "name": "NHS Hillingdon CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "08H": {
+        "index-entry-number": "139",
+        "entry-number": "139",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "08H",
+        "item": [
+            {
+                "clinical-commissioning-group": "08H",
+                "name": "NHS Islington CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "08J": {
+        "index-entry-number": "140",
+        "entry-number": "140",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "08J",
+        "item": [
+            {
+                "clinical-commissioning-group": "08J",
+                "name": "NHS Kingston CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "08K": {
+        "index-entry-number": "141",
+        "entry-number": "141",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "08K",
+        "item": [
+            {
+                "clinical-commissioning-group": "08K",
+                "name": "NHS Lambeth CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "08L": {
+        "index-entry-number": "142",
+        "entry-number": "142",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "08L",
+        "item": [
+            {
+                "clinical-commissioning-group": "08L",
+                "name": "NHS Lewisham CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "08M": {
+        "index-entry-number": "143",
+        "entry-number": "143",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "08M",
+        "item": [
+            {
+                "clinical-commissioning-group": "08M",
+                "name": "NHS Newham CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "08N": {
+        "index-entry-number": "144",
+        "entry-number": "144",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "08N",
+        "item": [
+            {
+                "clinical-commissioning-group": "08N",
+                "name": "NHS Redbridge CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "08P": {
+        "index-entry-number": "145",
+        "entry-number": "145",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "08P",
+        "item": [
+            {
+                "clinical-commissioning-group": "08P",
+                "name": "NHS Richmond CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "08Q": {
+        "index-entry-number": "146",
+        "entry-number": "146",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "08Q",
+        "item": [
+            {
+                "clinical-commissioning-group": "08Q",
+                "name": "NHS Southwark CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "08R": {
+        "index-entry-number": "147",
+        "entry-number": "147",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "08R",
+        "item": [
+            {
+                "clinical-commissioning-group": "08R",
+                "name": "NHS Merton CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "08T": {
+        "index-entry-number": "148",
+        "entry-number": "148",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "08T",
+        "item": [
+            {
+                "clinical-commissioning-group": "08T",
+                "name": "NHS Sutton CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "08V": {
+        "index-entry-number": "149",
+        "entry-number": "149",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "08V",
+        "item": [
+            {
+                "clinical-commissioning-group": "08V",
+                "name": "NHS Tower Hamlets CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "08W": {
+        "index-entry-number": "150",
+        "entry-number": "150",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "08W",
+        "item": [
+            {
+                "clinical-commissioning-group": "08W",
+                "name": "NHS Waltham Forest CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "08X": {
+        "index-entry-number": "151",
+        "entry-number": "151",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "08X",
+        "item": [
+            {
+                "clinical-commissioning-group": "08X",
+                "name": "NHS Wandsworth CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "08Y": {
+        "index-entry-number": "152",
+        "entry-number": "152",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "08Y",
+        "item": [
+            {
+                "clinical-commissioning-group": "08Y",
+                "name": "NHS West London CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "09A": {
+        "index-entry-number": "153",
+        "entry-number": "153",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "09A",
+        "item": [
+            {
+                "clinical-commissioning-group": "09A",
+                "name": "NHS Central London (Westminster) CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "09C": {
+        "index-entry-number": "154",
+        "entry-number": "154",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "09C",
+        "item": [
+            {
+                "clinical-commissioning-group": "09C",
+                "name": "NHS Ashford CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "09D": {
+        "index-entry-number": "155",
+        "entry-number": "155",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "09D",
+        "item": [
+            {
+                "clinical-commissioning-group": "09D",
+                "name": "NHS Brighton and Hove CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "09E": {
+        "index-entry-number": "156",
+        "entry-number": "156",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "09E",
+        "item": [
+            {
+                "clinical-commissioning-group": "09E",
+                "name": "NHS Canterbury and Coastal CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "09F": {
+        "index-entry-number": "157",
+        "entry-number": "157",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "09F",
+        "item": [
+            {
+                "clinical-commissioning-group": "09F",
+                "name": "NHS Eastbourne, Hailsham and Seaford CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "09G": {
+        "index-entry-number": "158",
+        "entry-number": "158",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "09G",
+        "item": [
+            {
+                "clinical-commissioning-group": "09G",
+                "name": "NHS Coastal West Sussex CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "09H": {
+        "index-entry-number": "159",
+        "entry-number": "159",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "09H",
+        "item": [
+            {
+                "clinical-commissioning-group": "09H",
+                "name": "NHS Crawley CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "09J": {
+        "index-entry-number": "160",
+        "entry-number": "160",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "09J",
+        "item": [
+            {
+                "clinical-commissioning-group": "09J",
+                "name": "NHS Dartford, Gravesham and Swanley CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "09L": {
+        "index-entry-number": "161",
+        "entry-number": "161",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "09L",
+        "item": [
+            {
+                "clinical-commissioning-group": "09L",
+                "name": "NHS East Surrey CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "09N": {
+        "index-entry-number": "162",
+        "entry-number": "162",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "09N",
+        "item": [
+            {
+                "clinical-commissioning-group": "09N",
+                "name": "NHS Guildford and Waverley CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "09P": {
+        "index-entry-number": "163",
+        "entry-number": "163",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "09P",
+        "item": [
+            {
+                "clinical-commissioning-group": "09P",
+                "name": "NHS Hastings and Rother CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "09W": {
+        "index-entry-number": "164",
+        "entry-number": "164",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "09W",
+        "item": [
+            {
+                "clinical-commissioning-group": "09W",
+                "name": "NHS Medway CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "09X": {
+        "index-entry-number": "165",
+        "entry-number": "165",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "09X",
+        "item": [
+            {
+                "clinical-commissioning-group": "09X",
+                "name": "NHS Horsham and Mid Sussex CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    },
+    "09Y": {
+        "index-entry-number": "166",
+        "entry-number": "166",
+        "entry-timestamp": "2018-10-24T07:24:32Z",
+        "key": "09Y",
+        "item": [
+            {
+                "clinical-commissioning-group": "09Y",
+                "name": "NHS North West Surrey CCG",
+                "start-date": "2013-04-01"
+            }
+        ]
+    }
+}

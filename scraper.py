@@ -7,7 +7,7 @@ import requests
 
 from commitment import GitHubCredentials, GitHubClient
 
-VALID_FORMATS = ("json", "csv")
+VALID_FORMATS = ("csv", )
 
 credentials = GitHubCredentials(
     repo="DemocracyClub/GDSRegisters",
@@ -17,7 +17,7 @@ credentials = GitHubCredentials(
 )
 client = GitHubClient(credentials)
 
-def make_url(name, domain=None, data_format="json"):
+def make_url(name, domain=None, data_format="csv"):
     assert data_format in VALID_FORMATS
     if not domain:
         domain = "www.registers.service.gov.uk"
@@ -33,7 +33,8 @@ def get_all_register_names():
     all_names = set()
     # Check registers listed in the register register
     req = requests.get(make_url("register"))
-    for register_name in req.json().keys():
+    for register in req.text.splitlines():
+        register_name = register.split(",")[3].strip('"')
         all_names.add(register_name)
 
     # Check "upcoming" registers
@@ -53,10 +54,7 @@ def save_register_data(register_name):
         dir_and_file = os.path.join(dir_path, file_name)
 
         req = requests.get(url)
-        if data_format == "json":
-            content = json.dumps(req.json(), indent=4)
-        else:
-            content = req.text
+        content = req.text
 
         client.push_file(content, dir_and_file, "Updated on {}".format(
             datetime.datetime.now().isoformat()

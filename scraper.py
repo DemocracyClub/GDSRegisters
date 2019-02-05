@@ -54,11 +54,12 @@ def save_register_data(register_name):
         dir_and_file = os.path.join(dir_path, file_name)
 
         req = requests.get(url)
-        content = req.text
+        if req.status_code == 200:
+            content = req.text
 
-        client.push_file(content, dir_and_file, "Updated on {}".format(
-            datetime.datetime.now().isoformat()
-        ))
+            client.push_file(content, dir_and_file, "Updated on {}".format(
+                datetime.datetime.now().isoformat()
+            ))
 
 
 if __name__ == "__main__":

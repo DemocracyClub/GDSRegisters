@@ -27,7 +27,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <meta property="og:url" content="https://www.registers.service.gov.uk/404" /><link href="https://www.registers.service.gov.uk/404" rel="canonical" /><link rel="stylesheet" media="screen" href="/assets/application-224054d3c3b4da56682d5932a0fe1f27daa37a63f7f7c8b921006ccf6263f31b.css" /><meta name="csrf-param" content="authenticity_token" />
-<meta name="csrf-token" content="szpoWvEihlmRsuKNLSlCULOghFNUMQCWOUhO5+1B0/UBl58cik9Wed3hC94zVsm63G4sNlcBKibfLPjiaaj4Lw==" /><meta content='GOV.UK Registers are structured datasets of government information. Designed to ensure government services run on the best quality data infrastructure, registers are accessible through a secure API that is easy to integrate with.' name='description'><script>
+<meta name="csrf-token" content="5c4R8tbKtS10dg25FwzjvNIpEO/qZUkL9qrEODODZWNe/XFJhPqkDVW0MmihG88NwbLLv4WhEpb75vQQrRX5aQ==" /><meta content='GOV.UK Registers are structured datasets of government information. Designed to ensure government services run on the best quality data infrastructure, registers are accessible through a secure API that is easy to integrate with.' name='description'><script>
   /* global ga, window */
   window.ga = window.ga || function () { (ga.q = ga.q || []).push(arguments); };
 

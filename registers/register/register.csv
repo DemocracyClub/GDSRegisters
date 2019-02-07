@@ -1,4 +1,5 @@
 index-entry-number,entry-number,entry-timestamp,key,register,text,registry,phase,copyright,fields
+75,75,2019-02-07T14:35:35Z,"clinical-commissioning-group","clinical-commissioning-group","Clinical Commissioning Groups in England",nhs-digital,beta,,"clinical-commissioning-group;name;start-date;end-date"
 74,74,2018-12-19T10:39:48Z,"further-education-college-uk","further-education-college-uk","Further education colleges in the United Kingdom","department-for-international-trade",beta,,"further-education-college-uk;name;region;start-date;end-date"
 73,73,2018-12-19T10:34:35Z,"further-education-college-region-uk","further-education-college-region-uk","Regions in the United Kingdom where a further education college is located","department-for-international-trade",beta,,"further-education-college-region-uk;name;start-date;end-date"
 72,72,2018-12-13T16:19:41Z,school-type-eng,school-type-eng,"Types of school in England",department-for-education,beta,,"school-type-eng;name;start-date;end-date"

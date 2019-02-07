@@ -1,4 +1,5 @@
 index-entry-number,entry-number,entry-timestamp,key,field,datatype,phase,register,cardinality,text
+158,158,2019-02-07T14:34:02Z,"clinical-commissioning-group","clinical-commissioning-group",string,beta,"clinical-commissioning-group",1,"The unique code assigned to the Clinical Commissioning Group."
 157,157,2018-12-13T16:17:20Z,school-type-eng,school-type-eng,string,beta,school-type-eng,1,"Type of a school in England."
 156,156,2018-12-12T17:02:41Z,region,region,curie,beta,,1,"The region in the UK where the further education college is located."
 155,155,2018-12-12T17:01:15Z,"further-education-college-uk","further-education-college-uk",string,beta,"further-education-college-uk",1,"The unique code of a further education college."

@@ -1,4 +1,5 @@
 index-entry-number,entry-number,entry-timestamp,key,country,name,official-name,citizen-names,start-date,end-date
+209,209,2019-02-25T16:59:09Z,MK,MK,"North Macedonia","Republic of North Macedonia","Macedonian, Citizen of the Republic of North Macedonia",1991-09-08,
 208,208,2018-06-13T13:54:40Z,SZ,SZ,Eswatini,"Kingdom of Eswatini",Swazi,,
 207,207,2017-10-25T09:52:52Z,CI,CI,"Ivory Coast","The Republic of Côte D’Ivoire","Citizen of the Ivory Coast",,
 206,206,2017-03-29T14:22:30Z,GM,GM,"The Gambia","The Republic of The Gambia",Gambian,,
@@ -92,7 +93,6 @@ index-entry-number,entry-number,entry-timestamp,key,country,name,official-name,c
 114,114,2016-04-05T13:23:05Z,MY,MY,Malaysia,Malaysia,"Citizen of Malaysia",,
 113,113,2016-04-05T13:23:05Z,MW,MW,Malawi,"The Republic of Malawi",Malawian,,
 112,112,2016-04-05T13:23:05Z,MG,MG,Madagascar,"The Republic of Madagascar","Citizen of Madagascar",,
-111,111,2016-04-05T13:23:05Z,MK,MK,Macedonia,"The Republic of Macedonia",Macedonian,1991-09-08,
 110,110,2016-04-05T13:23:05Z,LU,LU,Luxembourg,"The Grand Duchy of Luxembourg",Luxembourger,,
 109,109,2016-04-05T13:23:05Z,LT,LT,Lithuania,"The Republic of Lithuania",Lithuanian,1990-03-11,
 108,108,2016-04-05T13:23:05Z,LI,LI,Liechtenstein,"The Principality of Liechtenstein","Liechtenstein citizen",,
